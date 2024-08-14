@@ -1,0 +1,1 @@
+# Yandex.Metro_mobile-app_project_ManualTest
