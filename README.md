@@ -11,7 +11,7 @@
 
 ## Инструменты:
 <p align="left"> 
-  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
+  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4fee6efd-dd5a-4c90-95f6-6aafc54ed88d" width="36" height="36" alt="Google Sheets" /></a>
   <a href="developer.android.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/12a52a01-f617-44c4-81ca-abc8b1202429" width="36" height="36" alt="Android Studio" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
 </p> 
